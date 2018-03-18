@@ -28,6 +28,7 @@ module.exports = {
     'no-tabs':                      'off',
     'space-before-function-paren':  'off',
     'no-multi-spaces' :             'off',
-    'object-curly-eve-spacing':     'off'
+    'object-curly-even-spacing':    'off',
+    'no-mixed-spaces-and-tabs':     'off', 
   }
 }
